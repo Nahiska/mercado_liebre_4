@@ -1,16 +1,18 @@
 # Proyecto integrador individual - MercadoLiebre - Digital House
 
-Desafío frontend - Diseño Adaptativo
+Desafío frontend - Posicionamiento avanzado FlexBox
 
 
 Previews del desafío finalizado
 
 MOBILE:
 
-![mobile](https://user-images.githubusercontent.com/118026671/214755843-76ecf9b1-e8bd-43ea-ab5b-10ce4eea0473.svg)
+![mobile](https://user-images.githubusercontent.com/118026671/215352394-ead6828e-1273-45b7-9e48-20be8cd8a654.svg)
 
-TABLET & DESKTOP:
+TABLET:
 
-![header t d](https://user-images.githubusercontent.com/118026671/214756472-817bca00-6220-4719-95a1-ee407c9312dd.svg)
+![TABLET](https://user-images.githubusercontent.com/118026671/215352401-3f88fcd8-ca64-449a-8f17-d3e002ed6183.svg)
 
-![product t d](https://user-images.githubusercontent.com/118026671/214756537-238d1884-9100-45c3-865a-ec226583afa0.svg)
+DESKTOP:
+
+![DESKTOP](https://user-images.githubusercontent.com/118026671/215352408-5a528afc-8c94-48ae-9531-771b35d63c4d.svg)
